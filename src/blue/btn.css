@@ -1,0 +1,35 @@
+.btnBlueAsquare{
+    background-color: #add8e6;
+    color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin: 1px;
+}
+
+.btnBlueArecSmall {
+    background-color: #add8e6;
+    color: white;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 1px;
+}
+
+.btnBlueBsquare{
+    background-color: #00ABF0;
+    color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin: 1px;
+}
+
+.btnBlueBrecSmall {
+    background-color: #00ABF0;
+    color: white;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 1px;
+}

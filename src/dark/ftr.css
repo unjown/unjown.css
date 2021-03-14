@@ -1,0 +1,21 @@
+/* Dblue*/
+.ftrDarkA{
+    margin: 0;
+    background-color: #1261ad;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    bottom: 0;
+}
+
+/*black/very Dblue*/
+.ftrDarkB{
+    margin: 0;
+    background-color: #00031A;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    bottom: 0;  
+}
+
+

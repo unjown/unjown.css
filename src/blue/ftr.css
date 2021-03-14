@@ -1,0 +1,21 @@
+/* Lblue*/
+.ftrDarkA{
+    margin: 0;
+    background-color: #add8e6;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    bottom: 0;
+}
+
+/*little darker Lblue*/
+.ftrDarkB{
+    margin: 0;
+    background-color: #00ABF0;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    bottom: 0;  
+}
+
+
