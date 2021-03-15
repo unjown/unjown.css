@@ -1,0 +1,13 @@
+.unj-hdr-primary{
+    margin: 0;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+}
+
+.unj-hdr-secondary{
+    margin: 0;
+    position: relative;
+    width: 100%;
+    height: 60px;
+}

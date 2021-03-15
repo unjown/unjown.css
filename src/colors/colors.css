@@ -1,0 +1,33 @@
+#orangeLight{
+    background-color: #fe8e2f;
+    color: white;
+}
+
+#orangeDark{
+    background-color: #ff6201;
+    color: white;
+}
+
+#blueDark{
+    background-color: #0e1c2a;
+}
+
+#blueMid{
+    background-color: #1261ad;
+}
+
+#blueLight{
+    background-color: #00ABF0;
+}
+
+#blueLightLight{
+    background-color: #add8e6;
+}
+
+#white{
+    background-color: #ffffff;
+}
+
+#whiteGray{
+    background-color: #ebebeb;
+}
