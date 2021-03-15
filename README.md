@@ -11,8 +11,8 @@
 
 
 ## NOTES
--skip this **IF** it is in TO-DO / approved an suggestion / assigned to 
--please make an proposal (open an issue)on what your idea is 
+-skip this **IF** it is in TO-DO / approved an suggestion / assigned to <br>
+-please make an proposal (open an issue)on what your idea is <br>
 -send a screenshot or description  
 -wait for that issue to get the approved label
 
