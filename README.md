@@ -4,10 +4,10 @@
 
 ## TO DO 
 
-- [] 2nd footer (absolute)
-- [] More UI
-- [] More themes
-- [] install package for repo (unpkg)
+- [ ] 2nd footer (absolute)
+- [ ] More UI
+- [ ] More themes
+- [ ] install package for repo (unpkg)
 
 
 ## NOTES
