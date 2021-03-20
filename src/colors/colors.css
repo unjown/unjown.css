@@ -1,11 +1,9 @@
 #orangeLight{
     background-color: #fe8e2f;
-    color: white;
 }
 
 #orangeDark{
     background-color: #ff6201;
-    color: white;
 }
 
 #blueDark{
@@ -30,4 +28,9 @@
 
 #whiteGray{
     background-color: #ebebeb;
+}
+
+#mindustry{
+    background-color: black;
+    border: 3px solid #ffd37f;
 }

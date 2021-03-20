@@ -1,0 +1,58 @@
+.unj-tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+  }
+  
+  /* Style the buttons inside the tab */
+  .unj-tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  .unj-tab button:hover {
+    background-color: #ddd;
+  }
+  
+  .unj-tab button.active {
+    background-color: #ccc;
+  }
+  
+  .unj-tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+
+
+  /*USAGE
+  <div class="unj-tab">
+  <button class="tablinks" onclick="openTab(event, 'Tab1')">Tab1</button>
+  <button class="tablinks" onclick="openTab(event, 'Tab2')">Tab2</button>
+  <button class="tablinks" onclick="openTab(event, 'Tab3')">Tab3</button>
+</div>
+  
+  <div id="Tab1" class="unj-tabcontent">
+  <h3>Tab1</h3>
+  <p>Tab1</p>
+</div>
+
+<div id="Tab2" class="unj-tabcontent">
+  <h3>Tab2</h3>
+  <p>Tab2</p> 
+</div>
+
+<div id="Tab3" class="unj-tabcontent">
+  <h3>Tab3</h3>
+  <p>Tab3</p>
+</div>
+
+  
+  */

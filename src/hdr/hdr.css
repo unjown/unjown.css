@@ -1,13 +1,55 @@
-.unj-hdr-primary{
+.unj-hdr-blank-primary{
     margin: 0;
     position: fixed;
     width: 100%;
     height: 60px;
 }
 
-.unj-hdr-secondary{
+.unj-hdr-blank-secondary{
     margin: 0;
     position: relative;
     width: 100%;
     height: 60px;
 }
+
+
+
+.unj-hdr-block {
+    width: 100%;
+    overflow: auto;
+    background-color: orange;
+}
+.unj-hdr-block ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.unj-hdr-block ul li {
+    float: left;
+}
+.unj-hdr-block ul li a {
+    width: 120px;
+    display: block;
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif monospace;
+    font-size: 20px;
+    text-align: center;
+}
+.unj-hdr-block ul li a:hover {
+    background-color: #f99b31;
+    
+}
+
+/*
+<div class="appBar">
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="About_us.html">ABOUT US</a></li>
+                <li><a href="FAQ.html">FAQ</a></li>
+                <li><a href="SUPPORT.html">SUPPORT</a></li>
+            </ul> 
+</div>
+*/
